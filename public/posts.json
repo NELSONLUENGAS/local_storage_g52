@@ -1,0 +1,277 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"description": "¡Hermoso atardecer en la playa!",
+			"image_url": "https://via.placeholder.com/600x400?text=Atardecer+en+la+playa",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario1",
+				"name": "Juan Pérez"
+			},
+			"created_at": "2024-03-06T12:00:00Z",
+			"tags": ["playa", "atardecer", "naturaleza"]
+		},
+		{
+			"id": 2,
+			"description": "Deliciosa comida mexicana. ¡Tacos al pastor!",
+			"image_url": "https://via.placeholder.com/600x400?text=Tacos+al+pastor",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario2",
+				"name": "María García"
+			},
+			"created_at": "2024-03-05T18:30:00Z",
+			"tags": ["comida", "mexicana", "tacos"]
+		},
+		{
+			"id": 3,
+			"description": "Increíble paisaje de montaña.",
+			"image_url": "https://via.placeholder.com/600x400?text=Paisaje+de+montaña",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario3",
+				"name": "Carlos González"
+			},
+			"created_at": "2024-03-04T09:15:00Z",
+			"tags": ["montaña", "naturaleza", "paisaje"]
+		},
+		{
+			"id": 4,
+			"description": "Explorando la ciudad antigua.",
+			"image_url": "https://via.placeholder.com/600x400?text=Ciudad+antigua",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario4",
+				"name": "Luisa Martínez"
+			},
+			"created_at": "2024-03-03T15:45:00Z",
+			"tags": ["ciudad", "antigua", "turismo"]
+		},
+		{
+			"id": 5,
+			"description": "Recuerdos de un viaje inolvidable.",
+			"image_url": "https://via.placeholder.com/600x400?text=Viaje+inolvidable",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario5",
+				"name": "Ana Rodríguez"
+			},
+			"created_at": "2024-03-02T10:00:00Z",
+			"tags": ["viaje", "recuerdos", "aventura"]
+		},
+		{
+			"id": 6,
+			"description": "Admirando la arquitectura moderna.",
+			"image_url": "https://via.placeholder.com/600x400?text=Arquitectura+moderna",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario6",
+				"name": "Javier López"
+			},
+			"created_at": "2024-03-01T08:20:00Z",
+			"tags": ["arquitectura", "moderna", "edificios"]
+		},
+		{
+			"id": 7,
+			"description": "Momentos de paz en la naturaleza.",
+			"image_url": "https://via.placeholder.com/600x400?text=Paz+en+la+naturaleza",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario7",
+				"name": "Elena Sánchez"
+			},
+			"created_at": "2024-02-29T16:30:00Z",
+			"tags": ["naturaleza", "paz", "serenidad"]
+		},
+		{
+			"id": 8,
+			"description": "Disfrutando de la vista desde las alturas.",
+			"image_url": "https://via.placeholder.com/600x400?text=Vista+desde+las+alturas",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario8",
+				"name": "Pedro Martín"
+			},
+			"created_at": "2024-02-28T14:10:00Z",
+			"tags": ["vista", "alturas", "paisaje"]
+		},
+		{
+			"id": 9,
+			"description": "Momentos divertidos con amigos.",
+			"image_url": "https://via.placeholder.com/600x400?text=Diversion+con+amigos",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario9",
+				"name": "Laura Pérez"
+			},
+			"created_at": "2024-02-27T09:00:00Z",
+			"tags": ["amigos", "diversión", "alegría"]
+		},
+		{
+			"id": 10,
+			"description": "Aventuras en la selva tropical.",
+			"image_url": "https://via.placeholder.com/600x400?text=Aventuras+en+la+selva+tropical",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario10",
+				"name": "Andrés Gómez"
+			},
+			"created_at": "2024-02-26T11:20:00Z",
+			"tags": ["aventuras", "selva", "naturaleza"]
+		},
+		{
+			"id": 11,
+			"description": "Disfrutando de un día soleado en el campo.",
+			"image_url": "https://via.placeholder.com/600x400?text=Día+soleado+en+el+campo",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario11",
+				"name": "Marcela Rodríguez"
+			},
+			"created_at": "2024-02-25T13:40:00Z",
+			"tags": ["día", "soleado", "campo"]
+		},
+		{
+			"id": 12,
+			"description": "Disfrutando de un día soleado en la playa.",
+			"image_url": "https://via.placeholder.com/600x400?text=Día+soleado+en+la+playa",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario12",
+				"name": "Luis García"
+			},
+			"created_at": "2024-02-24T14:10:00Z",
+			"tags": ["playa", "sol", "relax"]
+		},
+		{
+			"id": 13,
+			"description": "Preparando una deliciosa barbacoa en el jardín.",
+			"image_url": "https://via.placeholder.com/600x400?text=Barbacoa+en+el+jardín",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario13",
+				"name": "Ana Martínez"
+			},
+			"created_at": "2024-02-23T12:20:00Z",
+			"tags": ["barbacoa", "jardín", "amigos"]
+		},
+		{
+			"id": 14,
+			"description": "Descubriendo nuevas rutas de senderismo.",
+			"image_url": "https://via.placeholder.com/600x400?text=Senderismo",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario14",
+				"name": "Daniel Sánchez"
+			},
+			"created_at": "2024-02-22T10:30:00Z",
+			"tags": ["senderismo", "naturaleza", "aventura"]
+		},
+		{
+			"id": 15,
+			"description": "No hay mejor compañía que la de un buen libro.",
+			"image_url": "https://via.placeholder.com/600x400?text=Leyendo+un+libro",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario15",
+				"name": "Carla Ruiz"
+			},
+			"created_at": "2024-02-21T16:45:00Z",
+			"tags": ["lectura", "libros", "relax"]
+		},
+		{
+			"id": 16,
+			"description": "Momentos de diversión en el parque de atracciones.",
+			"image_url": "https://via.placeholder.com/600x400?text=Parque+de+atracciones",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario16",
+				"name": "Eduardo Fernández"
+			},
+			"created_at": "2024-02-20T14:00:00Z",
+			"tags": ["diversión", "parque", "amigos"]
+		},
+		{
+			"id": 17,
+			"description": "Explorando ruinas antiguas.",
+			"image_url": "https://via.placeholder.com/600x400?text=Ruinas+antiguas",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario17",
+				"name": "Sofía Díaz"
+			},
+			"created_at": "2024-02-19T11:15:00Z",
+			"tags": ["ruinas", "antiguo", "historia"]
+		},
+		{
+			"id": 18,
+			"description": "Capturando momentos con mi cámara.",
+			"image_url": "https://via.placeholder.com/600x400?text=Fotografía",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario18",
+				"name": "Alberto López"
+			},
+			"created_at": "2024-02-18T09:30:00Z",
+			"tags": ["fotografía", "momentos", "recuerdos"]
+		},
+		{
+			"id": 19,
+			"description": "Cosechando frutas frescas del huerto.",
+			"image_url": "https://via.placeholder.com/600x400?text=Cosecha+de+frutas",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario19",
+				"name": "María Rodríguez"
+			},
+			"created_at": "2024-02-17T08:45:00Z",
+			"tags": ["huerto", "frutas", "naturaleza"]
+		},
+		{
+			"id": 20,
+			"description": "Un paseo en bicicleta por el campo.",
+			"image_url": "https://via.placeholder.com/600x400?text=Paseo+en+bicicleta",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario20",
+				"name": "Jorge González"
+			},
+			"created_at": "2024-02-16T16:00:00Z",
+			"tags": ["bicicleta", "campo", "aire libre"]
+		},
+		{
+			"id": 21,
+			"description": "Disfrutando de la tranquilidad del bosque.",
+			"image_url": "https://via.placeholder.com/600x400?text=Tranquilidad+en+el+bosque",
+			"likes": 0,
+			"tokens_per_like": 0.5,
+			"author": {
+				"username": "usuario21",
+				"name": "Sara Martínez"
+			},
+			"created_at": "2024-02-15T14:20:00Z",
+			"tags": ["bosque", "tranquilidad", "naturaleza"]
+		}
+	]
+}
